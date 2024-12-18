@@ -1,0 +1,10 @@
+{
+  "name": "TEST_sol",
+  "symbol": "TEST",
+  "description": "this token is a test.",
+  "image": "https://raw.githubusercontent.com/AdminHdz97/TESTsol/refs/heads/main/WIZARD%20MEME.png",
+  "extensions": {
+    "website": "",
+    "telegram": ""
+  }
+}
